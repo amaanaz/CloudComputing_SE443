@@ -1,0 +1,9 @@
+version: "3"
+services:
+    mid2_lighttpd:
+        image: sebp/lighttpd
+        volumes:
+            - A:/public_html:/var/www/localhost/htdocs
+        ports:
+            - "8008:80"
+        tty: true
