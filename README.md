@@ -1,2 +1,2 @@
-# CloudComputing_SE443
-Repository for test submission of Cloud computing course
+# CloudComputing_SE443 Final Project
+Repository Branch for submitting cloud computing course final project.
